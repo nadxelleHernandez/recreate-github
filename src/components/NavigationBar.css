@@ -1,5 +1,5 @@
 .nav-bar {
-    background: linear-gradient(90deg,rgb(6, 1, 51) 0%, rgb(72, 40, 235) 35%, rgb(0, 0, 0) 100%);
+    text-align: center;
 }
 
 .nav-bar li{
@@ -19,5 +19,5 @@
 
 .image {
     width: auto;
-    height: 50px;
+    height: 40px;
 }

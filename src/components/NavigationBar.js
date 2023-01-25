@@ -5,8 +5,10 @@ import "./NavigationBar.css";
 const NavigationBar = () => {
   return (
     <section className="nav-bar">
-      <img className="image" alt="Git Hub" src={icon}></img>
       <ul>
+        <li>
+          <img className="image" alt="Git Hub" src={icon}></img>
+        </li>
         <li>Why GitHub?</li>
         <li>Team</li>
         <li>Enterprise</li>

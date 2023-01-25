@@ -1,10 +1,13 @@
 import NavigationBar from "./components/NavigationBar";
+import "./App.css";
 
 function App() {
   return (
-    <header>
-      <NavigationBar></NavigationBar>
-    </header>
+    <main className="main">
+      <header>
+        <NavigationBar></NavigationBar>
+      </header>
+    </main>
   );
 }
 

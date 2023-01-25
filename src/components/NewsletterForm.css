@@ -1,0 +1,21 @@
+.news-letter {
+    float: left;
+    display: block;
+    padding: 10px;
+    
+}
+
+.news-letter input{
+    margin: 10px;
+}
+
+.signUP {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+

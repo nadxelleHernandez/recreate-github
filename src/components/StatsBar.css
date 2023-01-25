@@ -1,0 +1,24 @@
+.stats-bar{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.stats-bar li{
+    float: left;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    
+}
+
+.stats-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.stats-bar div{
+    font-size:x-small;
+}

@@ -4,7 +4,7 @@ import "./NavigationBar.css";
 
 const NavigationBar = () => {
   return (
-    <section className="nav-bar">
+    <nav className="nav-bar">
       <ul>
         <li>
           <img className="image" alt="Git Hub" src={icon}></img>
@@ -16,7 +16,7 @@ const NavigationBar = () => {
         <li>Marketplace</li>
         <li>Pricing</li>
       </ul>
-    </section>
+    </nav>
   );
 };
 
